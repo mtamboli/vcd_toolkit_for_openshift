@@ -190,7 +190,7 @@ The Bastion VM hosts the vcd_toolkit_for_openshift and  is the VM where we launc
 Go to Virtual Machines > **New VM**
 Name: **bastion** 
   - **From Template**
-  - Select **vm-redhat7**
+  - Select **vm-rhel8**
 
 After the VM is created, connect it to your network:
  - from Virtual Machines, select bastion VM
